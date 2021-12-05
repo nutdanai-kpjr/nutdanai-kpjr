@@ -1,7 +1,5 @@
 # Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello, everyone
-
 My name is Nutdanai Kitphermjaroen, but you can call me Nut.  
 I'm a junior studying computer science at KMUTT.  
 
