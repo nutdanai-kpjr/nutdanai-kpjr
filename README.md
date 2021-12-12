@@ -1,10 +1,13 @@
 # Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nutdanai Kitphermjaroen, but you can call me Nut.  
+My name is Nutdanai Kitphermjaroen, (you can call me Nut).  
 I'm a junior studying computer science at KMUTT.  
 
 Currently, I am primarily interested in both web development and mobile app development.  
 (I am extremely happy when my app is helpful to someone!)  
+
+React.js | Flutter |  Firebase  
+ 
   
   
   
