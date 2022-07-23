@@ -4,11 +4,10 @@ My name is Nutdanai Kitphermjaroen, (you can call me Nut).
 I'm a junior studying computer science at KMUTT.  
 
 Currently, I am primarily interested in both web development and mobile app development.  
-(I am extremely happy when my app is helpful to someone!)  
 
 React.js | Flutter |  Firebase  
  
-I invite you to check out my portfolio -> <a href="https://portfolio-nutdanai-app.vercel.app/"> here  </a>
+
   
   
   
