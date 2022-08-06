@@ -3,7 +3,7 @@
 My name is Nutdanai Kitphermjaroen, (you can call me Nut).  
 I'm a junior studying computer science at KMUTT.  
 
-Currently, I am primarily interested in both web development and mobile app development.  
+Currently, I am primarily interested in data science as well as web development and mobile app development.  
 
 React.js | Flutter |  Firebase  
  
