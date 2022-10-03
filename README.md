@@ -1,7 +1,6 @@
 # Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Nutdanai Kitphermjaroen, (you can call me Nash).  
-I'm CS student, at KMUTT Thailand.  I'm looking forward to becoming a software engineer focusing on producitivity field.
 
 ---
 
@@ -16,10 +15,11 @@ Extras - Nx | Vercel | CI/CD | Swagger
 AI - Tensorflow | OpenCV2 | Seaborn | R | Python 
 
 
- ---
+---
 
+ As someone who enjoys keeping life organized through journaling, my goal is to work toward productivity-based applications as a software engineer :)
   
-  
+--- 
   
   
 <a href="https://github.com/nutdanai-kpjr/nutdanai-kpj">
