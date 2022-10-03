@@ -9,7 +9,7 @@ I'm a junior studying computer science at KMUTT.
 
 Frontend - NextJs | React | Flutter | Svelte | Electron | Vue | Figma 
 
-Backend - Firebase | Node | RestFUL | JWT  | PostgreSQL | MongoDB | SpringBoot
+Backend - Firebase | Node | RESTful  | JWT  | PostgreSQL | MongoDB | SpringBoot
 
 Extras - Nx | Vercel | CI/CD
 
