@@ -1,7 +1,7 @@
 # Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Nutdanai Kitphermjaroen, (you can call me Nash).  
-I'm a junior studying computer science at KMUTT.  
+I'm CS student, at KMUTT Thailand.  I'm looking forward to becoming a software engineer focusing on producitivity field.
 
 ---
 
