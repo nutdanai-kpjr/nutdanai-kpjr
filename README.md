@@ -1,12 +1,22 @@
 # Hello, everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Nutdanai Kitphermjaroen, (you can call me Nut).  
+My name is Nutdanai Kitphermjaroen, (you can call me Nash).  
 I'm a junior studying computer science at KMUTT.  
 
-Currently, I am primarily interested in data science as well as web development and mobile app development.  
+---
 
-React.js | Flutter |  Firebase  
- 
+### My Experiences 
+
+Frontend - NextJs | React | Flutter | Svelte | Electron | Vue | Figma 
+
+Backend - Firebase | Node | RestFUL | JWT  | PostgreSQL | MongoDB | SpringBoot
+
+Extras - Nx | Vercel | CI/CD
+
+AI - Tensorflow | OpenCV2 | Seaborn | R | Python 
+
+
+ ---
 
   
   
