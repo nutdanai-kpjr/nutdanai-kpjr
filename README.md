@@ -17,7 +17,7 @@ AI - Tensorflow | OpenCV2 | Seaborn | R | Python
 
 ---
 
- As someone who enjoys keeping life organized through journaling, my goal is to work toward productivity-based applications as a software engineer :)
+ As someone who enjoys keeping life organized through journaling, I'm interested in (but not limit to) working on productivity-based projects as a software engineer :)
   
 --- 
   
